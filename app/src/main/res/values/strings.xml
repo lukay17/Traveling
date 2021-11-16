@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Traveling</string>
+    <string name="enviar">Enviar</string>
+    <string name="nombre">Cliente / Usuario</string>
+    <string name="pais">Pais</string>
+    <string name="comentarios">Como Describe su Viaje</string>
+    <string name="resumen">Resumen</string>
+</resources>
